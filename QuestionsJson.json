@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "choices": [
+        "Paris",
+        "Madrid",
+        "Rome",
+        "London"
+      ],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+      "choices": [
+        "Harper Lee",
+        "J.K. Rowling",
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway"
+      ],
+      "correctAnswer": "Harper Lee"
+    },
+    {
+      "id": 3,
+      "question": "What is the chemical symbol for the element gold?",
+      "choices": [
+        "Go",
+        "Au",
+        "Gd",
+        "Ag"
+      ],
+      "correctAnswer": "Au"
+    },
+    {
+      "id": 4,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "choices": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correctAnswer": "Mars"
+    },
+    {
+      "id": 5,
+      "question": "What is the largest ocean on Earth?",
+      "choices": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "id": 6,
+      "question": "Who painted the Mona Lisa?",
+      "choices": [
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Pablo Picasso",
+        "Claude Monet"
+      ],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "id": 7,
+      "question": "Which country is home to the kangaroo?",
+      "choices": [
+        "Australia",
+        "New Zealand",
+        "South Africa",
+        "Brazil"
+      ],
+      "correctAnswer": "Australia"
+    },
+    {
+      "id": 8,
+      "question": "What is the largest planet in our solar system?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Neptune",
+        "Earth"
+      ],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "id": 9,
+      "question": "What is the tallest mountain in the world?",
+      "choices": [
+        "Mount Everest",
+        "K2",
+        "Kangchenjunga",
+        "Makalu"
+      ],
+      "correctAnswer": "Mount Everest"
+    },
+    {
+      "id": 10,
+      "question": "Who is the author of the 'Harry Potter' book series?",
+      "choices": [
+        "J.K. Rowling",
+        "Stephen King",
+        "George R.R. Martin",
+        "Dan Brown"
+      ],
+      "correctAnswer": "J.K. Rowling"
+    },
+    {
+      "id": 11,
+      "question": "What is the symbol for the chemical element oxygen?",
+      "choices": [
+        "O",
+        "Ox",
+        "Oxg",
+        "Oy"
+      ],
+      "correctAnswer": "O"
+    },
+    {
+      "id": 12,
+      "question": "Which city is known as the 'Eternal City'?",
+      "choices": [
+        "Rome",
+        "Athens",
+        "Cairo",
+        "Jerusalem"
+      ],
+      "correctAnswer": "Rome"
+    },
+    {
+      "id": 13,
+      "question": "Who is credited with discovering the theory of relativity?",
+      "choices": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 14,
+      "question": "What is the largest organ in the human body?",
+      "choices": [
+        "Liver",
+        "Heart",
+        "Brain",
+        "Skin"
+      ],
+      "correctAnswer": "Skin"
+    },
+    {
+      "id": 15,
+      "question": "Which country is known for inventing tea?",
+      "choices": [
+        "China",
+        "India",
+        "Japan",
+        "England"
+      ],
+      "correctAnswer": "China"
+    },
+    {
+      "id": 16,
+      "question": "Who is the author of the play 'Romeo and Juliet'?",
+      "choices": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "id": 17,
+      "question": "What is the capital of Japan?",
+      "choices": [
+        "Tokyo",
+        "Beijing",
+        "Seoul",
+        "Bangkok"
+      ],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "id": 18,
+      "question": "Which famous scientist developed the theory of general relativity?",
+      "choices": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Marie Curie",
+        "Thomas Edison"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 19,
+      "question": "What is the largest continent on Earth?",
+      "choices": [
+        "Asia",
+        "Africa",
+        "North America",
+        "South America"
+      ],
+      "correctAnswer": "Asia"
+    },
+    {
+      "id": 20,
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Pablo Picasso",
+        "Vincent van Gogh"
+      ],
+      "correctAnswer": "Michelangelo"
+    },
+    {
+      "id": 21,
+      "question": "Which country is known for the Great Barrier Reef?",
+      "choices": [
+        "Australia",
+        "Mexico",
+        "Brazil",
+        "Maldives"
+      ],
+      "correctAnswer": "Australia"
+    },
+    {
+      "id": 22,
+      "question": "What is the symbol for the chemical element iron?",
+      "choices": [
+        "Fe",
+        "I",
+        "Ir",
+        "In"
+      ],
+      "correctAnswer": "Fe"
+    },
+    {
+      "id": 23,
+      "question": "Who painted the 'Starry Night'?",
+      "choices": [
+        "Claude Monet",
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": "Vincent van Gogh"
+    },
+    {
+      "id": 24,
+      "question": "Which country is known for the Taj Mahal?",
+      "choices": [
+        "India",
+        "Egypt",
+        "Italy",
+        "Greece"
+      ],
+      "correctAnswer": "India"
+    },
+    {
+      "id": 25,
+      "question": "What is the symbol for the chemical element carbon?",
+      "choices": [
+        "C",
+        "Ca",
+        "Co",
+        "Cr"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Who is the author of the novel 'Pride and Prejudice'?",
+      "choices": [
+        "Jane Austen",
+        "Emily Brontë",
+        "Charlotte Brontë",
+        "Virginia Woolf"
+      ],
+      "correctAnswer": "Jane Austen"
+    },
+    {
+      "id": 27,
+      "question": "What is the largest species of shark?",
+      "choices": [
+        "Great White Shark",
+        "Tiger Shark",
+        "Hammerhead Shark",
+        "Whale Shark"
+      ],
+      "correctAnswer": "Whale Shark"
+    },
+    {
+      "id": 28,
+      "question": "Which country is known for the Eiffel Tower?",
+      "choices": [
+        "France",
+        "Italy",
+        "Spain",
+        "Germany"
+      ],
+      "correctAnswer": "France"
+    },
+    {
+      "id": 29,
+      "question": "What is the symbol for the chemical element sodium?",
+      "choices": [
+        "Na",
+        "So",
+        "Soa",
+        "Si"
+      ],
+      "correctAnswer": "Na"
+    },
+    {
+      "id": 30,
+      "question": "Who painted the 'The Last Supper'?",
+      "choices": [
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Vincent van Gogh"
+      ],
+      "correctAnswer": "Leonardo da Vinci"
+    }
+  ]
+}
